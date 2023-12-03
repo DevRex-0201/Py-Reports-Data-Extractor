@@ -1,4 +1,4 @@
-# Project Title: Judicial Reports Data Extractor
+# Judicial Reports Data Extractor
 
 ## Overview
 The "Judicial Reports Data Extractor" is a Python script meticulously crafted to streamline the extraction of crucial information from the "Prevention of Future Deaths Reports" published on the UK Judiciary website. These reports, serving as pivotal documents for understanding and mitigating recurring fatalities, are presented in the form of PDF documents linked from individual report pages.
